@@ -4,5 +4,5 @@
 ## Table of Contents
 
 - [Pandas]
-  - [Introduction to Pandas](python_notebooks/Pandas Basics.ipynb)
+  - [Introduction to Pandas](pandas_basic.ipynb)
 
