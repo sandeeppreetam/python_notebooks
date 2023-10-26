@@ -3,4 +3,5 @@
 
 ## Table of Contents
 - [Pandas - Basics](pandas_basic.ipynb)
+- [datetime](datetime.ipynb)
 
